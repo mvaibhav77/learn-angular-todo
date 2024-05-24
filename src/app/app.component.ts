@@ -7,12 +7,7 @@ import { TasksComponent } from './components/tasks/tasks.component';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [
-    RouterOutlet,
-    FontAwesomeModule,
-    HeaderComponent,
-    TasksComponent,
-  ],
+  imports: [RouterOutlet, FontAwesomeModule, HeaderComponent, TasksComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })

@@ -10,12 +10,18 @@
       "id": "2",
       "text": "Meeting at School",
       "day": "May 6th at 1:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": "3",
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": "3f3e",
+      "text": "Meet at Office",
+      "day": "May 24th at 9:52 am",
       "reminder": false
     }
   ]
